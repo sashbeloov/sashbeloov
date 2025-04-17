@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @sashbeloov 
-- 👀 I’m interested in machine learning and creating dynamic websites
-- 🌱 I’m currently learning python,data anlysis and machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sashbeloov/sashbeloov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @sashbeloov (real name: SashBeLoV)
+- 🌍 I’m based in Tashkent, Uzbekistan
+- 💻 I’m passionate about Machine Learning, Artificial Intelligence, and Web Development
+- 🌱 Currently learning: Python, Data Analysis, Machine Learning, and Django
+- 🧠 I enjoy solving logic puzzles, exploring new technologies, and working on AI projects
+- 🚀 I’m building Telegram bots, dynamic websites, and AI-based tools for Uzbek-speaking audiences
+- 🎯 My goal: Help people understand AI and make it accessible in the Uzbek language
+- 💬 I speak Uzbek, Russian, and English
+- 📫 Reach me via Telegram: [@sashbeloov](https://t.me/sashbeloov)
+- ⚡ Fun fact: I started my journey in tech with a strong love for math, chess, and sports like swimming and football
