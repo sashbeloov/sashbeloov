@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sashbeloov (real name: SashBeLoV)
+- 👋 Hi, I’m @sashbeloov (real name: Aleksandr)
 - 🌍 I’m based in Tashkent, Uzbekistan
 - 💻 I’m passionate about Machine Learning, Artificial Intelligence, and Web Development
 - 🌱 Currently learning: Python, Data Analysis, Machine Learning, and Django
@@ -6,5 +6,4 @@
 - 🚀 I’m building Telegram bots, dynamic websites, and AI-based tools for Uzbek-speaking audiences
 - 🎯 My goal: Help people understand AI and make it accessible in the Uzbek language
 - 💬 I speak Uzbek, Russian, and English
-- 📫 Reach me via Telegram: [@sashbeloov](https://t.me/sashbeloov)
 - ⚡ Fun fact: I started my journey in tech with a strong love for math, chess, and sports like swimming and football
