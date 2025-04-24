@@ -6,4 +6,4 @@
 - 🚀 I’m building Telegram bots, dynamic websites, and AI-based tools for Uzbek-speaking audiences
 - 🎯 My goal: Help people understand AI and make it accessible in the Uzbek language
 - 💬 I speak Uzbek, Russian, and English
-- ⚡ Fun fact: I started my journey in tech with a strong love for math, chess, and sports like swimming and football
+- ⚡ Fun fact: I started my journey in tech with a strong love for math
